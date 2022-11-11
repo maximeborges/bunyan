@@ -83,7 +83,6 @@ Compared to the original `bunyan` CLI, `bunyan-rs`:
 
 - Only supports `stdin` as input source (no files);
 - Does not support log snooping via DTrace (`-p` argument);
-- Does not support the `-c/--condition` filtering mechanism;
 - Does not support the `--pager/--no-pager` flags;
 - Only supports the `long` output format;
 - Only supports UTC format for time.
